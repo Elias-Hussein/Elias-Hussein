@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elias-Hussein
+- 👋 Hi, I’m @Yunan
 - 👀 I’m interested in Python, R, and SQL
 - 🌱 I’m currently learning 
 - 📫 How to reach me https://www.linkedin.com/in/hussein-elias/
